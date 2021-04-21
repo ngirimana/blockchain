@@ -1,3 +1,7 @@
 {
-    "python.linting.enabled": true
+    "python.linting.enabled": true,
+    "cornflakes.linter.executablePath": "path/to/venvs/myvenv/bin/flake8",
+    "python.linting.pylintEnabled": true,
+    "python.linting.flake8Enabled": false
+
 }

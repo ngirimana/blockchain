@@ -1,7 +1,3 @@
 {
-    "python.linting.enabled": true,
-    "cornflakes.linter.executablePath": "path/to/venvs/myvenv/bin/flake8",
-    "python.linting.pylintEnabled": true,
-    "python.linting.flake8Enabled": false
-
+    "python.pythonPath": "C:\\Users\\Schadrack\\anaconda3\\envs\\pycoin\\python.exe"
 }
